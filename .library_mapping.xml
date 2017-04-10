@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.sigasi.hdt.shared.librarymapping.model:LibraryMappings xmlns:com.sigasi.hdt.shared.librarymapping.model="com.sigasi.hdt.vhdl.scoping.librarymapping" Version="2">
+  <Mappings Location="lib/contrib" Library="contrib"/>
+  <Mappings Location="lib/cypress" Library="cypress"/>
+  <Mappings Location="lib/esa" Library="esa"/>
+  <Mappings Location="lib/eth" Library="eth"/>
+  <Mappings Location="lib/gaisler" Library="gaisler"/>
+  <Mappings Location="lib/grlib" Library="grlib"/>
+  <Mappings Location="lib/gsi" Library="gsi"/>
+  <Mappings Location="Common Libraries/IEEE" Library="ieee"/>
+  <Mappings Location="Common Libraries/IEEE Synopsys" Library="ieee"/>
+  <Mappings Location="lib/micron" Library="micron"/>
+  <Mappings Location="" Library="not mapped"/>
+  <Mappings Location="Common Libraries" Library="not mapped"/>
+  <Mappings Location="lib/esa/memoryctrl/mctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/esa/pci/pci_arb.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/fmf" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/can/can_mc.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/can/can_oc.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/can/grcan.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/ddr/ddr2sp.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/ddr/ddrsp.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/ddr/mig.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/ddr/mig_7series.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/gr1553b/gr1553b.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/gr1553b/gr1553b_2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/greth/greth.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/greth/greth2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/i2c/i2c.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/i2c/i2c2ahb.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/i2c/i2cslv.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/irqmp/irqmp.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/jtag/bscan.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/jtag/jtag.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/jtag/jtag2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/l2cache/l2c.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/leon3/l3stat.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/leon3/leon3.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/leon4/l4stat.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/leon4/leon4.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/ftmctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/ftsdctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/ftsrctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/sdctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/srctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/memctrl/ssrctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ahbram.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ahbrom.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ahbstat.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ftahbram.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/gptimer.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/gracectrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/grgpio.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/grgpio2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/grsysmon.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ps2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/ps2vga.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/misc/svgactrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/net/edcl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/pci/grpci2/grpci2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/pci/pcitrace/pcitrace.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/pci/ptf/pt_pci_monitor.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/pcie/pcie.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/spacewire/router.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/spacewire/spacewire.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/spi/spi2ahb.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/spi/spictrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/spi/spimctrl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/subsys/leon_dsu_stat_base.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/uart/dcom.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/uart/uart1.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/uart/uart2.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/usb/grusb_dcl.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/usb/grusbdc.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/gaisler/usb/grusbhc.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/grlib/amba/amba.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/grlib/util/debug.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/tech" Library="not mapped"/>
+  <Mappings Location="lib/techmap" Library="not mapped"/>
+  <Mappings Location="lib/techmap/gencomp/clkgen.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/techmap/gencomp/tech.in.vhd" Library="not mapped"/>
+  <Mappings Location="lib/testgrouppolito" Library="not mapped"/>
+  <Mappings Location="lib/opencores" Library="opencores"/>
+  <Mappings Location="lib/spansion" Library="spansion"/>
+  <Mappings Location="lib/spw" Library="spw"/>
+  <Mappings Location="Common Libraries/STD" Library="std"/>
+  <Mappings Location="lib/synplify" Library="synplify"/>
+  <Mappings Location="lib/techmap/gencomp" Library="techmap"/>
+  <Mappings Location="lib/techmap/maps" Library="techmap"/>
+  <Mappings Location="designs/leon3mp" Library="work"/>
+  <Mappings Location="lib/work" Library="work"/>
+</com.sigasi.hdt.shared.librarymapping.model:LibraryMappings>
